@@ -21,3 +21,6 @@ do
   wget ${URL} -O ${LOCAL_PATH}
 
 done
+
+
+
